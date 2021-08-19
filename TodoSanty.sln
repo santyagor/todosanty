@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSanty.Common", "TodoSanty.Common\TodoSanty.Common.csproj", "{87FC641E-0DBE-40A3-A941-6E0E614F6558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoSanty.Common", "TodoSanty.Common\TodoSanty.Common.csproj", "{87FC641E-0DBE-40A3-A941-6E0E614F6558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSanty.Functions", "TodoSanty.Functions\TodoSanty.Functions.csproj", "{31B16944-AC18-4C92-AE71-2349F3797D71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoSanty.Functions", "TodoSanty.Functions\TodoSanty.Functions.csproj", "{31B16944-AC18-4C92-AE71-2349F3797D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSanty.Test", "TodoSanty.Test\TodoSanty.Test.csproj", "{1B57248A-D374-44E4-8AE3-266823D4BE1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoSanty.Test", "TodoSanty.Test\TodoSanty.Test.csproj", "{1B57248A-D374-44E4-8AE3-266823D4BE1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
