@@ -62,7 +62,7 @@ namespace TodoSanty.Test.Helpers
             return new DefaultHttpRequest(new DefaultHttpContext());
         }
 
-        public static Todo GetTodoReques()
+        public static Todo GetTodoRequest()
         {
             return new Todo
             {
